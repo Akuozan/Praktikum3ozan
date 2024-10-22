@@ -11,7 +11,7 @@ mata kuliah : Bahasa pemrograman
 ## mencari bilangan terbesar dari bilangan yang di input kan 
 program ini menentukan bilangan terbesar dari serangkaian bilangin yang di input kan hingga input 0, program ini menggunakan loop`while`dan kondisi`if` untuk memperbaharui nilai terbesar yang di temukan 
 ## flowchart program 
-![foto](
+![foto](IMG_20241022_233439~2.jpg
 
 largest = float('-inf')  # Menginisialisasi Largest dengan -∞
 
