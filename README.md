@@ -1,3 +1,19 @@
+(#praktikum 3-tipe data,variabel,dan operator 
+
+nama:fauzan giri
+
+kelas: Ti24A5 
+
+nim : 312410535
+
+mata kuliah : Bahasa pemrograman 
+
+## mencari bilangan terbesar dari bilangan yang di input kan 
+program ini menentukan bilangan terbesar dari serangkaian bilangin yang di input kan hingga input 0, program ini menggunakan loop`while`dan kondisi`if` untuk memperbaharui nilai terbesar yang di temukan 
+## flowchart program 
+![foto](https://github.com/Akuozan/Praktikum3ozan/edit/main/README.md
+
+
 largest = float('-inf')  # Menginisialisasi Largest dengan -∞
 
 while True:
